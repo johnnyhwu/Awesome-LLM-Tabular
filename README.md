@@ -20,4 +20,4 @@
 
 | Date | keywords | Paper | Summary |
 | :--: | :------: | :---: | :-----: | 
-| 2022-02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | ![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=) |
+| 2022-02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/TableQuery.md) |
