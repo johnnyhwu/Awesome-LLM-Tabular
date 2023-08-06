@@ -9,3 +9,15 @@
 :sparkles: Awesome-LLM-Tabular is a curated list of **Large Language Model** applied to **Tabular Data**.
 
 :fire: This project is currently under development. Feel free to :star: (STAR) and :telescope: (WATCH) it to stay updated on the latest developments.
+
+## Table of Content
+
+- [Awesome-LLM-Tabular](#)
+  - [Table of Content](#)
+  - [Related Papers](#)
+
+## Related Papers
+
+| Date | keywords | Paper | Summary |
+| :--: | :------: | :---: | :-----: | 
+| 2022-02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | ![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=) |
