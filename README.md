@@ -28,3 +28,6 @@
 | 2023-04 | TABLET | [TABLET: Learning From Instructions For Tabular Data](https://arxiv.org/pdf/2304.13188.pdf) | [![Static Badge](https://badgen.net/badge/color/TBA/red?label=)](/resource/summary/TabLLM.md) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dylan-slack/Tablet) |
 | 2023-05 | AnyPredict | [AnyPredict: Foundation Model for Tabular Prediction](https://arxiv.org/pdf/2305.12081.pdf) | [![Static Badge](https://badgen.net/badge/color/TBA/red?label=)](/resource/summary/AnyPredict.md) | | |
 | 2023-07 | TableGPT | [TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT](https://arxiv.org/pdf/2307.08674.pdf) | [![Static Badge](https://badgen.net/badge/color/TBA/red?label=)](/resource/summary/TableGPT2023.md) | | |
+
+## Contributing
+We welcome contributions to keep this repository up-to-date with the latest research and applications of LLM in the **tabular** domain. Whether you want to correct any mistakes, add new content, or suggest improvements, your contributions are highly appreciated :hugs:.
