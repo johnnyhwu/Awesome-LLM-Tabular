@@ -18,7 +18,8 @@
 
 ## Related Papers
 
-| Date | keywords | Paper | Summary |
-| :--: | :------: | :---: | :-----: | 
-| 2022-02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/TableQuery.md#chatgpt) |
-| 2022-09 | PTab | [PTab: Using the Pre-trained Language Model for Modeling Tabular Data](https://arxiv.org/pdf/2209.08060.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/PTab.md#chatgpt) |
+| Date | keywords | Paper | Summary | Publication |
+| :--: | :------: | :---: | :-----: | :---------: |
+| 2022-02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/TableQuery.md#chatgpt) | |
+| 2022-09 | PTab | [PTab: Using the Pre-trained Language Model for Modeling Tabular Data](https://arxiv.org/pdf/2209.08060.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/PTab.md#chatgpt) | |
+| 2022-10 | GReaT | [Language Models are Realistic Tabular Data Generators](https://arxiv.org/pdf/2210.06280.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/PReaT.md#chatgpt) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) |
