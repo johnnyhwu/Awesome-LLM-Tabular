@@ -12,9 +12,9 @@
 
 ## Table of Content
 
-- [Awesome-LLM-Tabular](#)
-  - [Table of Content](#)
-  - [Related Papers](#)
+- [Awesome-LLM-Tabular](#awesome-llm-tabular)
+  - [Table of Content](#table-of-content)
+  - [Related Papers](#related-papers)
 
 ## Related Papers
 
