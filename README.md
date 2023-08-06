@@ -18,9 +18,11 @@
 
 ## Related Papers
 
-| Date | keywords | Paper | Summary | Publication |
-| :--: | :------: | :---: | :-----: | :---------: |
-| 2022-02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/TableQuery.md#chatgpt) | |
-| 2022-09 | PTab | [PTab: Using the Pre-trained Language Model for Modeling Tabular Data](https://arxiv.org/pdf/2209.08060.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/PTab.md#chatgpt) | |
-| 2022-10 | GReaT | [Language Models are Realistic Tabular Data Generators](https://arxiv.org/pdf/2210.06280.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/PReaT.md#chatgpt) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) |
-| 2022-10 | TabLLM | [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://arxiv.org/pdf/2210.10723.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/TabLLM.md#chatgpt) | ![Static Badge](https://badgen.net/badge/color/AISTATS/blue?label=) |
+| Date | keywords | Paper | Summary | Publication | Resource |
+| :--: | :------: | :---: | :-----: | :---------: | :------: |
+| 2022-02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/TableQuery.md) | | |
+| 2022-09 | PTab | [PTab: Using the Pre-trained Language Model for Modeling Tabular Data](https://arxiv.org/pdf/2209.08060.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/PTab.md) | | |
+| 2022-10 | GReaT | [Language Models are Realistic Tabular Data Generators](https://arxiv.org/pdf/2210.06280.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/PReaT.md) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) |
+| 2022-10 | TabLLM | [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://arxiv.org/pdf/2210.10723.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/TabLLM.md) | ![Static Badge](https://badgen.net/badge/color/AISTATS/blue?label=) | |
+| 2023-04 | TABLET | [TABLET: Learning From Instructions For Tabular Data](https://arxiv.org/pdf/2304.13188.pdf) | [![Static Badge](https://badgen.net/badge/color/TBA/red?label=)](/resource/summary/TabLLM.md) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dylan-slack/Tablet) |
+| 2023-05 | AnyPredict | [AnyPredict: Foundation Model for Tabular Prediction](https://arxiv.org/pdf/2305.12081.pdf) | [![Static Badge](https://badgen.net/badge/color/TBA/red?label=)](/resource/summary/AnyPredict.md) | | |
