@@ -2,7 +2,11 @@
 
 ## ChatGPT
 
-The paper presents TableQuery, a new tool for querying tabular data using natural language. Unlike existing deep learning models for question answering on tabular data, TableQuery uses pre-trained models on free text, which eliminates the need for fine-tuning when the data domain changes. The tool allows users to query large datasets without memory restrictions by storing tables into a database or spreadsheet. The system architecture of TableQuery is described, including the main modules and how they are connected. The paper also shares qualitative results from experiments conducted on the WikiSQL dataset, which demonstrate the effectiveness of TableQuery. Overall, TableQuery provides a more efficient and user-friendly solution for querying tabular data using natural language.
+### Approach
+The paper presents a new approach to querying tabular data using natural language called TableQuery. The approach is based on pre-trained deep learning models on free text, which eliminates the need for fine-tuning when the data domain changes. TableQuery allows users to query large datasets without memory restrictions by storing tables into a database or spreadsheet. The system architecture of TableQuery is described in detail, including the main modules and how they are connected. The paper also shares qualitative results from experiments conducted on the WikiSQL dataset, which demonstrate the effectiveness of TableQuery. Overall, the approach presented in the paper provides a more efficient and user-friendly solution for querying tabular data using natural language.
+
+### Experiment
+The paper presents qualitative results from experiments conducted on the WikiSQL dataset to evaluate the effectiveness of TableQuery. The dataset is used for developing language interfaces for relational databases. The paper selects a subset of tables without needing any joins since TableQuery currently does not support inner queries and joins. Tables 3 and 4 in the paper highlight some of the selected results. The paper compares the performance of TableQuery with TAPAS, another deep learning model for question answering on tabular data. The results demonstrate the effectiveness of TableQuery, particularly in cases where the table is large. However, the paper does not provide a quantitative analysis of the results due to the limitations of TableQuery. Overall, the experiment presented in the paper provides qualitative evidence of the effectiveness of TableQuery for querying tabular data using natural language.
 
 ## Human
 

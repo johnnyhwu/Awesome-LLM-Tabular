@@ -20,4 +20,5 @@
 
 | Date | keywords | Paper | Summary |
 | :--: | :------: | :---: | :-----: | 
-| 2022-02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/TableQuery.md) |
+| 2022-02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/TableQuery.md#chatgpt) |
+| 2022-09 | PTab | [PTab: Using the Pre-trained Language Model for Modeling Tabular Data](https://arxiv.org/pdf/2209.08060.pdf) | [![Static Badge](https://badgen.net/badge/color/ChatGPT/green?label=)](/resource/summary/PTab.md#chatgpt) |
