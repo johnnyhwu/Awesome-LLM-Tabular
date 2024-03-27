@@ -35,7 +35,7 @@
 | 2022-10 | TabLLM | [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://arxiv.org/pdf/2210.10723.pdf) | ![Static Badge](https://badgen.net/badge/color/AISTATS/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/clinicalml/TabLLM) |
 | 2023-01 | DATER | [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/abs/2301.13808) | ![Static Badge](https://badgen.net/badge/color/SIGIR/blue?label=) | |
 | 2023-02 | AdaPTGen | [Adapting Prompt for Few-shot Table-to-Text Generation](https://arxiv.org/abs/2302.12468) | | |
-| 2023-03 | Transformers for Tabular Data Representation: A Survey of Models and Applications | [Transformers for Tabular Data Representation: A Survey of Models and Applications](https://aclanthology.org/2023.tacl-1.14/) | ![Static Badge](https://badgen.net/badge/color/TACL/blue?label=) | |
+| 2023-03 | Survey Paper | [Transformers for Tabular Data Representation: A Survey of Models and Applications](https://aclanthology.org/2023.tacl-1.14/) | ![Static Badge](https://badgen.net/badge/color/TACL/blue?label=) | |
 | 2023-04 | TABLET | [TABLET: Learning From Instructions For Tabular Data](https://arxiv.org/pdf/2304.13188.pdf) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dylan-slack/Tablet) |
 | 2023-05 | AnyPredict | [AnyPredict: Foundation Model for Tabular Prediction](https://arxiv.org/pdf/2305.12081.pdf) | | |
 | 2023-07 | TableGPT | [TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT](https://arxiv.org/pdf/2307.08674.pdf) | | |
