@@ -1,6 +1,0 @@
-# Summarization
-
-## Approach
-
-
-## Experiment
