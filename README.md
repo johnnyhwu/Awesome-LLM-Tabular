@@ -40,10 +40,19 @@
 | 2023/04 | TABLET | [TABLET: Learning From Instructions For Tabular Data](https://arxiv.org/pdf/2304.13188.pdf) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dylan-slack/Tablet) |
 | 2023/05 | AnyPredict | [AnyPredict: Foundation Model for Tabular Prediction](https://arxiv.org/pdf/2305.12081.pdf) | | |
 | 2023/07 | TableGPT | [TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT](https://arxiv.org/pdf/2307.08674.pdf) | | |
-| 2023/10 | TabFMs | [Towards Foundation Models for Learning on Tabular Data](https://arxiv.org/pdf/2310.07338.pdf) | | |
+| 2023/07 | UniTabE | [UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science](https://arxiv.org/abs/2307.09249) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | |
+| 2023/10 | UniPredict | [UniPredict: Large Language Models are Universal Tabular Classifiers](https://arxiv.org/abs/2310.03266) | | |
+| 2024/03 | TableLLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://dl.acm.org/doi/abs/10.1145/3616855.3635752) | ![Static Badge](https://badgen.net/badge/color/WSDM/blue?label=) | |
 | 2023/11 | NumericalReasoning | [Exploring the Numerical Reasoning Capabilities of Language Models: A Comprehensive Analysis on Tabular Data](https://arxiv.org/abs/2311.02216) | ![Static Badge](https://badgen.net/badge/color/EMNLP/blue?label=) | |
 | 2023/12 | TaCo | [Chain-of-Thought Reasoning in Tabular Language Models](https://aclanthology.org/2023.findings-emnlp.734/) | ![Static Badge](https://badgen.net/badge/color/EMNLP/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SpursGoZmy/TaCo) |
+| 2024/01 | Chain-of-Table | [Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding](https://arxiv.org/abs/2401.04398) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | |
 | 2024/02 | Survey Paper | [LLM on Tabular Data: Prediction, Generation, and Understanding](https://arxiv.org/abs/2402.17944) | | |
+| 2024/02 | CABINET | [CABINET: Content Relevance based Noise Reduction for Table Question Answering](https://arxiv.org/abs/2402.01155) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Sohanpatnaik106/CABINET_QA) |
+| 2024/02 | OpenTab | [OpenTab: Advancing Large Language Models as Open-domain Table Reasoners](https://arxiv.org/abs/2402.14361) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Sohanpatnaik106/CABINET_QA) |
+| 2024/03 | TableLLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://dl.acm.org/doi/abs/10.1145/3616855.3635752) | ![Static Badge](https://badgen.net/badge/color/WSDM/blue?label=) | |
+| 2024/03 | TP-BERTa | [Making Pre-trained Language Models Great on Tabular Prediction](https://arxiv.org/abs/2403.01841) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jyansir/tp-berta) |
+
+
 
 ## Contributing
 We welcome contributions to keep this repository up-to-date with the latest research and applications of LLM in the **tabular** domain. Whether you want to correct any mistakes, add new content, or suggest improvements, your contributions are highly appreciated :hugs:.
