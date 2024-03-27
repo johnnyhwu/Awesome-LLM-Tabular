@@ -43,6 +43,7 @@
 | 2023/10 | TabFMs | [Towards Foundation Models for Learning on Tabular Data](https://arxiv.org/pdf/2310.07338.pdf) | | |
 | 2023/11 | NumericalReasoning | [Exploring the Numerical Reasoning Capabilities of Language Models: A Comprehensive Analysis on Tabular Data](https://arxiv.org/abs/2311.02216) | ![Static Badge](https://badgen.net/badge/color/EMNLP/blue?label=) | |
 | 2023/12 | TaCo | [Chain-of-Thought Reasoning in Tabular Language Models](https://aclanthology.org/2023.findings-emnlp.734/) | ![Static Badge](https://badgen.net/badge/color/EMNLP/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SpursGoZmy/TaCo) |
+| 2024/02 | Survey Paper | [LLM on Tabular Data: Prediction, Generation, and Understanding](https://arxiv.org/abs/2402.17944) | | |
 
 ## Contributing
 We welcome contributions to keep this repository up-to-date with the latest research and applications of LLM in the **tabular** domain. Whether you want to correct any mistakes, add new content, or suggest improvements, your contributions are highly appreciated :hugs:.
