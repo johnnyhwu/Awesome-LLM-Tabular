@@ -15,6 +15,7 @@
 - [Awesome-LLM-Tabular](#awesome-llm-tabular)
   - [Table of Content](#table-of-content)
   - [Related Papers](#related-papers)
+  - [Contributing](#contributing)
 
 ## Related Papers
 
@@ -51,7 +52,7 @@
 | 2024/02 | OpenTab | [OpenTab: Advancing Large Language Models as Open-domain Table Reasoners](https://arxiv.org/abs/2402.14361) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Sohanpatnaik106/CABINET_QA) |
 | 2024/03 | TableLLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://dl.acm.org/doi/abs/10.1145/3616855.3635752) | ![Static Badge](https://badgen.net/badge/color/WSDM/blue?label=) | |
 | 2024/03 | TP-BERTa | [Making Pre-trained Language Models Great on Tabular Prediction](https://arxiv.org/abs/2403.01841) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jyansir/tp-berta) |
-
+| 2024/04 | TableLLM | [TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios](https://arxiv.org/abs/2403.19318) |  | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/TableLLM/TableLLM) [![Static Badge](https://badgen.net/badge/color/Model/yellow?label=)](https://huggingface.co/RUCKBReasoning/TableLLM-13b) |
 
 
 ## Contributing
