@@ -34,6 +34,8 @@
 | 2022/09 | TabMWP | [Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning](https://arxiv.org/abs/2209.14610) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://promptpg.github.io/) |
 | 2022/10 | GReaT | [Language Models are Realistic Tabular Data Generators](https://arxiv.org/pdf/2210.06280.pdf) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/kathrinse/be_great) |
 | 2022/10 | TabLLM | [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://arxiv.org/pdf/2210.10723.pdf) | ![Static Badge](https://badgen.net/badge/color/AISTATS/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/clinicalml/TabLLM) |
+| 2023/?? | IngesTables | [IngesTables: Scalable and Efficient Training of LLM-Enabled Tabular Foundation Models](https://openreview.net/pdf?id=EocsZtcA7P) | ![Static Badge](https://badgen.net/badge/color/TRL@NeurIPS/blue?label=) | |
+| 2023/?? | Elephants | [Elephants Never Forget: Testing Language Models for Memorization of Tabular Data](https://arxiv.org/abs/2403.06644) | ![Static Badge](https://badgen.net/badge/color/TRL@NeurIPS/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/interpretml/LLM-Tabular-Memorization-Checker) |
 | 2023/01 | DATER | [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/abs/2301.13808) | ![Static Badge](https://badgen.net/badge/color/SIGIR/blue?label=) | |
 | 2023/02 | AdaPTGen | [Adapting Prompt for Few-shot Table-to-Text Generation](https://arxiv.org/abs/2302.12468) | | |
 | 2023/03 | Survey Paper | [Transformers for Tabular Data Representation: A Survey of Models and Applications](https://aclanthology.org/2023.tacl-1.14/) | ![Static Badge](https://badgen.net/badge/color/TACL/blue?label=) | |
@@ -54,7 +56,8 @@
 | 2024/02 | OpenTab | [OpenTab: Advancing Large Language Models as Open-domain Table Reasoners](https://arxiv.org/abs/2402.14361) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Sohanpatnaik106/CABINET_QA) |
 | 2024/03 | TableLLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://dl.acm.org/doi/abs/10.1145/3616855.3635752) | ![Static Badge](https://badgen.net/badge/color/WSDM/blue?label=) | |
 | 2024/03 | TP-BERTa | [Making Pre-trained Language Models Great on Tabular Prediction](https://arxiv.org/abs/2403.01841) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jyansir/tp-berta) |
-
+| 2024/04 | FeatLLM | [Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning](https://arxiv.org/pdf/2404.09491.pdf) |  | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Sungwon-Han/FeatLLM) |
+| 2024/04 | TabSQLify | [TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition](https://arxiv.org/abs/2404.10150) | ![Static Badge](https://badgen.net/badge/color/NAACL/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Sungwon-Han/FeatLLM) |
 
 
 ## Contributing
