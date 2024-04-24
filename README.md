@@ -39,9 +39,10 @@
 | 2023/03 | Survey Paper | [Transformers for Tabular Data Representation: A Survey of Models and Applications](https://aclanthology.org/2023.tacl-1.14/) | ![Static Badge](https://badgen.net/badge/color/TACL/blue?label=) | |
 | 2023/04 | TABLET | [TABLET: Learning From Instructions For Tabular Data](https://arxiv.org/pdf/2304.13188.pdf) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dylan-slack/Tablet) |
 | 2023/05 | AnyPredict | [AnyPredict: Foundation Model for Tabular Prediction](https://arxiv.org/pdf/2305.12081.pdf) | | |
+| 2023/05 | TAPTAP | [Generative Table Pre-training Empowers Models for Tabular Prediction](https://arxiv.org/abs/2305.09696) | ![Static Badge](https://badgen.net/badge/color/ACL/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ZhangTP1996/TapTap) |
 | 2023/07 | TableGPT | [TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT](https://arxiv.org/pdf/2307.08674.pdf) | | |
 | 2023/07 | UniTabE | [UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science](https://arxiv.org/abs/2307.09249) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | |
-| 2023/10 | TabFMs | [UniPredict: Large Language Models are Universal Tabular Classifiers](https://arxiv.org/abs/2310.03266) | | |
+| 2023/10 | TabFMs | [TOWARDS FOUNDATION MODELS FOR LEARNING ON TABULAR DATA](https://arxiv.org/pdf/2310.07338.pdf) | | |
 | 2023/10 | UniPredict | [UniPredict: Large Language Models are Universal Tabular Classifiers](https://arxiv.org/abs/2310.03266) | | |
 | 2024/03 | TableLLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://dl.acm.org/doi/abs/10.1145/3616855.3635752) | ![Static Badge](https://badgen.net/badge/color/WSDM/blue?label=) | |
 | 2023/11 | NumericalReasoning | [Exploring the Numerical Reasoning Capabilities of Language Models: A Comprehensive Analysis on Tabular Data](https://arxiv.org/abs/2311.02216) | ![Static Badge](https://badgen.net/badge/color/EMNLP/blue?label=) | |
