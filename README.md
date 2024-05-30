@@ -72,5 +72,18 @@
 ## Useful Blogs
 - [A Short Chronology Of Deep Learning For Tabular Data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html) by [Sebastian Raschka](https://www.linkedin.com/in/sebastianraschka/)
 
+## Citation
+```
+@misc{wu2024awesomellmtabular,
+  author = {Hong-Wei, Wu},
+  title = {Awesome-LLM-Tabular},
+  year = {2024},
+  note = {Accessed: 2024-05-30},
+  url = {https://github.com/johnnyhwu/Awesome-LLM-Tabular},
+  orcid = {https://orcid.org/0009-0005-8073-5297}
+}
+
+```
+
 ## Contributing
 We welcome contributions to keep this repository up-to-date with the latest research and applications of LLM in the **tabular** domain. Whether you want to correct any mistakes, add new content, or suggest improvements, your contributions are highly appreciated :hugs:.
