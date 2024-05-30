@@ -82,7 +82,6 @@
   url = {https://github.com/johnnyhwu/Awesome-LLM-Tabular},
   orcid = {https://orcid.org/0009-0005-8073-5297}
 }
-
 ```
 
 ## Contributing
