@@ -26,7 +26,7 @@
 | 2020 | TableGPT | [TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching](https://aclanthology.org/2020.coling-main.179.pdf) | ![Static Badge](https://badgen.net/badge/color/COLING/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/syw1996/TableGPT) |
 | 2020/05 | TaBERT | [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/abs/2005.08314) | ![Static Badge](https://badgen.net/badge/color/ACL/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/facebookresearch/TaBERT) |
 | 2020/09 | GaPPa | [GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](https://arxiv.org/abs/2009.13845) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/taoyds/grappa) |
-| 2022/02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | | | |
+| 2022/02 | TableQuery | [TableQuery: Querying tabular data with natural language](https://arxiv.org/pdf/2202.00454.pdf) | | |
 | 2022/05 | FeSTE      | [Few-Shot Tabular Data Enrichment Using Fine-Tuned Transformer Architectures](https://aclanthology.org/2022.acl-long.111.pdf) | ![Static Badge](https://badgen.net/badge/color/ACL/blue?label=) | |
 | 2022/05 | FM        | [Can Foundation Models Wrangle Your Data?](https://arxiv.org/abs/2205.09911) | ![Static Badge](https://badgen.net/badge/color/VLDB/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/HazyResearch/fm_data_tasks) |
 | 2022/05 | TURL | [Technical Perspective of TURL: Table Understanding through Representation Learning](https://dl.acm.org/doi/abs/10.1145/3542700.3542708) | ![Static Badge](https://badgen.net/badge/color/SIGMOD/blue?label=) | |
@@ -49,6 +49,7 @@
 | 2023/10 | TabFMs | [TOWARDS FOUNDATION MODELS FOR LEARNING ON TABULAR DATA](https://arxiv.org/pdf/2310.07338.pdf) | | |
 | 2023/10 | TableFormat | [Tabular Representation, Noisy Operators, and Impacts on Table Structure Understanding Tasks in LLMs](https://arxiv.org/abs/2310.10358) | | |
 | 2023/10 | UniPredict | [UniPredict: Large Language Models are Universal Tabular Classifiers](https://arxiv.org/abs/2310.03266) | | |
+| 2023/10 | Table-GPT | [Table-GPT: Table-tuned GPT for Diverse Table Tasks](https://arxiv.org/abs/2310.09263) | |  [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/Table-GPT) |
 | 2024/03 | TableLLM | [Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://dl.acm.org/doi/abs/10.1145/3616855.3635752) | ![Static Badge](https://badgen.net/badge/color/WSDM/blue?label=) | |
 | 2023/11 | NumericalReasoning | [Exploring the Numerical Reasoning Capabilities of Language Models: A Comprehensive Analysis on Tabular Data](https://arxiv.org/abs/2311.02216) | ![Static Badge](https://badgen.net/badge/color/EMNLP/blue?label=) | |
 | 2023/12 | TaCo | [Chain-of-Thought Reasoning in Tabular Language Models](https://aclanthology.org/2023.findings-emnlp.734/) | ![Static Badge](https://badgen.net/badge/color/EMNLP/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SpursGoZmy/TaCo) |
@@ -64,6 +65,8 @@
 | 2024/04 | FeatLLM | [Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning](https://arxiv.org/pdf/2404.09491.pdf) |  | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Sungwon-Han/FeatLLM) |
 | 2024/04 | TabSQLify | [TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition](https://arxiv.org/abs/2404.10150) | ![Static Badge](https://badgen.net/badge/color/NAACL/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Sungwon-Han/FeatLLM) |
 | 2024/04 | LLMClean | [LLMClean: Context-Aware Tabular Data Cleaning via LLM-Generated OFDs](https://arxiv.org/abs/2404.18681) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/asdfthefourth/LLMClean) |
+
+
 
 ## Workshops
 - [Table Representation Learning Workshop @ NeurIPS 2023](https://neurips.cc/virtual/2023/workshop/66546)
