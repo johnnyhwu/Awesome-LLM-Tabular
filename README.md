@@ -67,6 +67,7 @@
 | 2024/04 | TabSQLify | [TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition](https://arxiv.org/abs/2404.10150) | ![Static Badge](https://badgen.net/badge/color/NAACL/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Sungwon-Han/FeatLLM) |
 | 2024/04 | LLMClean | [LLMClean: Context-Aware Tabular Data Cleaning via LLM-Generated OFDs](https://arxiv.org/abs/2404.18681) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/asdfthefourth/LLMClean) |
 | 2024/07 | folktexts | [Evaluating language models as risk scores](https://arxiv.org/abs/2407.14614) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/socialfoundations/folktexts) |
+| 2024/07 | SpreadsheetLLM | [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025) | | |
 
 
 
