@@ -70,8 +70,6 @@
 | 2024/07 | SpreadsheetLLM | [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025) | | |
 | 2024/08 | rLLM | [rLLM: Relational Table Learning with LLMs](https://arxiv.org/abs/2407.20157) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/rllm-team/rllm) |
 
-
-
 ## Workshops
 
 - [Table Representation Learning Workshop @ NeurIPS 2023](https://neurips.cc/virtual/2023/workshop/66546)
