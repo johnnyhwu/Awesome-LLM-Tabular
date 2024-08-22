@@ -68,10 +68,12 @@
 | 2024/04 | LLMClean | [LLMClean: Context-Aware Tabular Data Cleaning via LLM-Generated OFDs](https://arxiv.org/abs/2404.18681) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/asdfthefourth/LLMClean) |
 | 2024/07 | folktexts | [Evaluating language models as risk scores](https://arxiv.org/abs/2407.14614) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/socialfoundations/folktexts) |
 | 2024/07 | SpreadsheetLLM | [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025) | | |
+| 2024/08 | rLLM | [rLLM: Relational Table Learning with LLMs](https://arxiv.org/abs/2407.20157) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/rllm-team/rllm) |
 
 
 
 ## Workshops
+
 - [Table Representation Learning Workshop @ NeurIPS 2023](https://neurips.cc/virtual/2023/workshop/66546)
 - [Table Representation Learning Workshop @ NeurIPS 2024](https://table-representation-learning.github.io/)
 
