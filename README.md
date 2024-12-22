@@ -69,6 +69,7 @@
 | 2024/05 | CARTE | [CARTE: Pretraining and Transfer for Tabular Learning](https://openreview.net/forum?id=9kArQnKLDp) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/carte) |
 | 2024/07 | folktexts | [Evaluating language models as risk scores](https://arxiv.org/abs/2407.14614) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/socialfoundations/folktexts) |
 | 2024/07 | SpreadsheetLLM | [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025) | | |
+| 2024/08 | rLLM | [rLLM: Relational Table Learning with LLMs](https://arxiv.org/abs/2407.20157) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/rllm-team/rllm) |
 
 
 
