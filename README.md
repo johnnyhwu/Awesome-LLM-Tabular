@@ -77,7 +77,7 @@
 | 2024/06 | Struc-Bench | [Struc-Bench: Are Large Language Models Good at Generating Complex Structured Tabular Data?](https://aclanthology.org/2024.naacl-short.2/) | ![Static Badge](https://badgen.net/badge/color/NAACL/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/gersteinlab/Struc-Bench) |
 | 2024/07 | folktexts | [Evaluating language models as risk scores](https://arxiv.org/abs/2407.14614) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/socialfoundations/folktexts) |
 | 2024/07 | SpreadsheetLLM | [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025) | | |
-| 2024/10 | LLM Fairness on Table  | [Improving LLM Group Fairness on Tabular Data via In-Context Learning](https://openreview.net/forum?id=fj4xtN6xQS&noteId=7tvmcnsWIU) | ![Static Badge](https://badgen.net/badge/color/SafeGenAi/blue?label=) | |
+| 2024/08 | rLLM | [rLLM: Relational Table Learning with LLMs](https://arxiv.org/abs/2407.20157) | | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/rllm-team/rllm) |
 
 
 
