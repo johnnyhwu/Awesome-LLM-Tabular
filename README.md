@@ -20,6 +20,8 @@
 
 ## Related Papers
 
+
+- [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs (GReaT) with adversarial filtering, privacy metrics, and sklearn integration. [Paper](https://arxiv.org/abs/2010.00638)
 | Date | keywords | Paper | Publication | Resource |
 | :--: | :------: | :---: | :---------: | :------: |
 | 2019/09 | TabFact | [TabFact: A Large-scale Dataset for Table-based Fact Verification](https://arxiv.org/abs/1909.02164) | ![Static Badge](https://badgen.net/badge/color/ICLR/blue?label=) | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/wenhuchen/Table-Fact-Checking?tab=readme-ov-file) |
